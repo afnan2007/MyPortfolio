@@ -77,7 +77,7 @@ export const Contact = () => {
         <div className="flex flex-col lg:flex-row gap-x-12"> 
         <p>Email: afnanahmed4847@gmail.com</p>
         <p></p>
-        <p>Phone #: 973-462-6070</p>
+        <p>Phone #: 973-567-2892</p>
         </div>
        
       </motion.form>
