@@ -2,9 +2,11 @@ module.exports = {
   content: ['./src/**/*.{js,jsx,ts,tsx}'],
   theme: {
     fontFamily: {
-      primary: 'Orbitron',
+
+      primary: 'Aldrich',
       secondary: 'Rajdhani',
       tertiary: 'Aldrich',
+    
     },
     container: {
       padding: {
@@ -20,12 +22,11 @@ module.exports = {
     extend: {
       colors: {
         primary: '#0a0a0a',
-        accent: '#B809C3',
+        accent: '#00d5ff',
       },
       backgroundImage: {
-        site: "url('./assets/site-bg.jpg')",
-        about: "url('./assets/about.png')",
-        services: "url('./assets/services.png')",
+        site: "url('./assets/background.png')",
+        about: "url('./assets/me.png')",
       },
     },
   },
